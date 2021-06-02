@@ -1,7 +1,6 @@
 ---
 layout: slide
 title: "Welcome to our second slide!"
+name: "my-slide"
 ---
-Wow!
-Use the left arrow to go back!
-The slide name is "my-slide".
+Use the left arrow to go back.
