@@ -2,4 +2,4 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Use the left arrow to go back.
+“First, solve the problem. Then, write the code.” – John Johnson
